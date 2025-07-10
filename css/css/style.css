@@ -1,0 +1,28 @@
+/* Roblox-Design */
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f2f2f2;
+    margin: 0;
+    color: #333;
+}
+
+.roblox-header {
+    background: linear-gradient(to right, #00A2FF, #0080FF);
+    height: 50px;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.play-button {
+    background: #00A2FF;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+/* Füge hier ALLE CSS-Regeln aus meiner vorherigen Nachricht ein */
